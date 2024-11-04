@@ -1,0 +1,331 @@
+# Manual de Usuario: Sistema ERP y WMS
+
+## Índice
+
+1. Introducción
+2. Acceso al Sistema
+3. Dashboard
+4. Gestión de Inventario
+5. Gestión de Clientes
+6. Gestión de Proveedores
+7. Gestión de Pedidos
+8. Gestión de Compras
+9. Gestión de Almacén
+10. Informes y Análisis
+11. Recursos Humanos
+12. Finanzas
+13. Configuración del Sistema
+14. Solución de Problemas Comunes
+
+
+## 1. Introducción
+
+Bienvenido al manual de usuario del Sistema ERP (Enterprise Resource Planning) y WMS (Warehouse Management System). Este sistema integrado está diseñado para ayudar a gestionar eficientemente todos los aspectos de su negocio, desde el inventario y las ventas hasta los recursos humanos y las finanzas.
+
+## 2. Acceso al Sistema
+
+Para acceder al sistema:
+
+1. Abra su navegador web y vaya a la URL proporcionada por su administrador de sistemas.
+2. Ingrese su nombre de usuario y contraseña en la página de inicio de sesión.
+3. Haga clic en "Iniciar Sesión".
+
+
+## 3. Dashboard
+
+El dashboard es la primera pantalla que verá después de iniciar sesión. Proporciona una visión general de las métricas clave de su negocio.
+
+### Elementos del Dashboard:
+
+- Resumen de Ventas: Gráfico que muestra las tendencias de ventas.
+- Productos Más Vendidos: Gráfico circular que muestra los productos top.
+- KPIs: Indicadores clave de rendimiento, incluyendo ventas mensuales, satisfacción del cliente y eficiencia del almacén.
+- Alertas Recientes: Notificaciones importantes sobre el negocio.
+- Tareas Pendientes: Lista de tareas que requieren atención.
+- Rendimiento de Empleados: Gráfico que muestra el desempeño del personal.
+
+
+## 4. Gestión de Inventario
+
+Para acceder a la gestión de inventario, haga clic en "Inventario" en el menú lateral.
+
+### Añadir un Nuevo Producto:
+
+1. Complete los campos requeridos: Nombre, Cantidad, Precio, Categoría, Proveedor, Ubicación, Stock Mínimo, Stock Máximo y SKU.
+2. Haga clic en "Añadir Producto".
+
+
+### Editar un Producto:
+
+1. Localice el producto en la tabla.
+2. Haga clic en el botón "Editar".
+3. Modifique los campos necesarios en el formulario que aparece.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar un Producto:
+
+1. Localice el producto en la tabla.
+2. Haga clic en el botón "Eliminar".
+3. Confirme la acción en el cuadro de diálogo que aparece.
+
+
+## 5. Gestión de Clientes
+
+Acceda a la gestión de clientes haciendo clic en "Clientes" en el menú lateral.
+
+### Añadir un Nuevo Cliente:
+
+1. Complete los campos: Nombre, Email, Teléfono, Dirección, Tipo de Cliente y Límite de Crédito.
+2. Haga clic en "Añadir Cliente".
+
+
+### Editar un Cliente:
+
+1. Encuentre el cliente en la tabla.
+2. Haga clic en "Editar".
+3. Actualice la información necesaria.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar un Cliente:
+
+1. Localice el cliente en la tabla.
+2. Haga clic en "Eliminar".
+3. Confirme la acción.
+
+
+## 6. Gestión de Proveedores
+
+Para gestionar proveedores, seleccione "Proveedores" en el menú lateral.
+
+### Añadir un Nuevo Proveedor:
+
+1. Rellene los campos: Nombre, Email, Teléfono, Dirección, Producto Principal y Tiempo de Entrega.
+2. Haga clic en "Añadir Proveedor".
+
+
+### Editar un Proveedor:
+
+1. Encuentre el proveedor en la lista.
+2. Haga clic en "Editar".
+3. Modifique la información necesaria.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar un Proveedor:
+
+1. Localice el proveedor en la tabla.
+2. Haga clic en "Eliminar".
+3. Confirme la acción en el cuadro de diálogo.
+
+
+## 7. Gestión de Pedidos
+
+Acceda a la gestión de pedidos seleccionando "Pedidos" en el menú lateral.
+
+### Crear un Nuevo Pedido:
+
+1. Seleccione el cliente del menú desplegable.
+2. Ingrese la fecha del pedido.
+3. Seleccione el estado del pedido.
+4. Añada productos al pedido haciendo clic en "Añadir Producto" y seleccionando el producto y la cantidad.
+5. Haga clic en "Crear Pedido".
+
+
+### Ver Detalles de un Pedido:
+
+1. Encuentre el pedido en la tabla.
+2. Haga clic en "Ver" para abrir los detalles completos del pedido.
+
+
+### Editar un Pedido:
+
+1. Localice el pedido en la lista.
+2. Haga clic en "Editar".
+3. Modifique la información necesaria.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar un Pedido:
+
+1. Encuentre el pedido en la tabla.
+2. Haga clic en "Eliminar".
+3. Confirme la acción.
+
+
+## 8. Gestión de Compras
+
+Para gestionar las compras, haga clic en "Compras" en el menú lateral.
+
+### Crear una Nueva Orden de Compra:
+
+1. Seleccione el proveedor del menú desplegable.
+2. Ingrese la fecha de la compra.
+3. Seleccione el estado de la compra.
+4. Añada productos a la orden haciendo clic en "Añadir Producto" y seleccionando el producto y la cantidad.
+5. Haga clic en "Crear Orden de Compra".
+
+
+### Ver Detalles de una Compra:
+
+1. Localice la compra en la tabla.
+2. Haga clic en "Ver" para abrir los detalles completos de la orden de compra.
+
+
+### Editar una Orden de Compra:
+
+1. Encuentre la orden de compra en la lista.
+2. Haga clic en "Editar".
+3. Actualice la información necesaria.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar una Orden de Compra:
+
+1. Localice la orden de compra en la tabla.
+2. Haga clic en "Eliminar".
+3. Confirme la acción en el cuadro de diálogo.
+
+
+## 9. Gestión de Almacén
+
+Acceda a la gestión del almacén haciendo clic en "Almacén" en el menú lateral.
+
+### Visualizar el Diseño del Almacén:
+
+- El diseño del almacén se muestra como una cuadrícula donde cada celda representa una ubicación.
+- Las celdas coloreadas indican ubicaciones ocupadas por productos.
+
+
+### Ver Detalles de una Ubicación:
+
+1. Haga clic en una celda de la cuadrícula.
+2. Se mostrará un cuadro con información sobre el producto almacenado en esa ubicación (si hay alguno).
+
+
+## 10. Informes y Análisis
+
+Para acceder a los informes, seleccione "Informes" en el menú lateral.
+
+### Tipos de Informes Disponibles:
+
+- Ventas por Mes: Gráfico de barras que muestra las ventas mensuales.
+- Inventario por Categoría: Gráfico circular que muestra la distribución del inventario.
+- Top 5 Clientes: Gráfico de barras horizontales con los clientes que más compran.
+- Rendimiento de Proveedores: Gráfico de radar que compara el desempeño de los proveedores.
+
+
+### Interactuar con los Gráficos:
+
+- Pase el cursor sobre los elementos del gráfico para ver más detalles.
+- Algunos gráficos permiten hacer clic para filtrar o expandir la información.
+
+
+## 11. Recursos Humanos
+
+Para gestionar los recursos humanos, haga clic en "Recursos Humanos" en el menú lateral.
+
+### Añadir un Nuevo Empleado:
+
+1. Complete los campos: Nombre, Email, Teléfono, Cargo, Departamento y Fecha de Contratación.
+2. Haga clic en "Añadir Empleado".
+
+
+### Editar Información de un Empleado:
+
+1. Localice al empleado en la tabla.
+2. Haga clic en "Editar".
+3. Actualice la información necesaria.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar un Empleado:
+
+1. Encuentre al empleado en la lista.
+2. Haga clic en "Eliminar".
+3. Confirme la acción en el cuadro de diálogo.
+
+
+## 12. Finanzas
+
+Acceda a la gestión financiera haciendo clic en "Finanzas" en el menú lateral.
+
+### Registrar una Nueva Transacción:
+
+1. Ingrese la fecha de la transacción.
+2. Escriba una descripción para la transacción.
+3. Ingrese el monto de la transacción.
+4. Seleccione el tipo de transacción (Ingreso o Gasto).
+5. Elija la categoría de la transacción.
+6. Haga clic en "Añadir Transacción".
+
+
+### Editar una Transacción:
+
+1. Localice la transacción en la tabla.
+2. Haga clic en "Editar".
+3. Modifique la información necesaria.
+4. Haga clic en "Guardar Cambios".
+
+
+### Eliminar una Transacción:
+
+1. Encuentre la transacción en la lista.
+2. Haga clic en "Eliminar".
+3. Confirme la acción.
+
+
+## 13. Configuración del Sistema
+
+Para ajustar la configuración del sistema, haga clic en "Configuración" en el menú lateral.
+
+### Opciones de Configuración:
+
+- Notificaciones por email: Active o desactive las notificaciones.
+- Modo oscuro: Cambie entre el modo claro y oscuro de la interfaz.
+- Idioma: Seleccione el idioma preferido para la interfaz.
+- Moneda: Elija la moneda principal para los informes financieros.
+
+
+### Guardar Cambios:
+
+Después de realizar los ajustes deseados, haga clic en "Guardar Configuración" para aplicar los cambios.
+
+## 14. Solución de Problemas Comunes
+
+### El sistema no carga:
+
+- Verifique su conexión a internet.
+- Intente actualizar la página.
+- Borre la caché del navegador y vuelva a intentarlo.
+
+
+### No puedo iniciar sesión:
+
+- Asegúrese de que está ingresando las credenciales correctas.
+- Verifique si la tecla Mayús está activada.
+- Si olvidó su contraseña, use la opción "Olvidé mi contraseña" en la página de inicio de sesión.
+
+
+### Los cambios no se guardan:
+
+- Asegúrese de hacer clic en el botón "Guardar" o "Guardar Cambios" después de realizar modificaciones.
+- Verifique su conexión a internet.
+
+
+### Los gráficos no se muestran correctamente:
+
+- Intente actualizar la página.
+- Asegúrese de que su navegador esté actualizado a la última versión.
+- Pruebe con un navegador diferente si el problema persiste.
+
+
+### No puedo encontrar una función específica:
+
+- Utilice la barra de búsqueda en la parte superior de la página.
+- Revise el menú lateral para todas las opciones disponibles.
+- Consulte este manual para obtener información sobre dónde encontrar funciones específicas.
+
+
+Si encuentra problemas que no puede resolver, por favor contacte al soporte técnico proporcionando una descripción detallada del problema y, si es posible, capturas de pantalla que ilustren el inconveniente.
